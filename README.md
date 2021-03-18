@@ -1,2 +1,2 @@
 # laravel-database-logger
-a package to can log into the database
+a package that makes u able to log into database
